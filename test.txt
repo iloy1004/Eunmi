@@ -3,6 +3,7 @@ test
 2
 3
 4
+<<<<<<< HEAD
 4
 test
 test
@@ -12,3 +13,6 @@ test
 test
 test
 test
+=======
+5
+>>>>>>> ba492c1c53987376d8f85ba743812ad9d9f0efe1
